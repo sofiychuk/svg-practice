@@ -1,0 +1,19 @@
+
+.main_1{
+    width: 200px;
+    height: 480px;
+    background-color: lightgray;
+    margin: 20px auto;
+}
+
+.design-blue svg path{
+    fill: blue;
+}
+.design-red svg path{
+    fill: red;
+}
+.transparent svg path{
+    fill: none;
+    stroke: #fff;
+    stroke-width: 3%;
+}
